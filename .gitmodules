@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/thematic"]
+	path = vendor/plugins/thematic
+	url = git://github.com/accuser/thematic.git
